@@ -370,12 +370,10 @@ var menunya = `
 
 
 *Info Bot* :
-🌐 Base : Haikal
+🌐 Base : haikal
 💌 Creator : Haikal
 👻 Nama Bot : ${botname}
 🌀 Nama Owner : ${ownername}
-💠 Libray : () Baileys @3.5.3
-📱 Nomer Owner : ${ownernum}
 
 *Indonesian Time Zone* :
 🌏 Wib : ${wib}
